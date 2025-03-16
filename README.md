@@ -25,8 +25,8 @@ También se creó una hoja adicional donde se puede ver la información por clie
 Esta sección es útil si se necesita conocer quiénes son los mejores compradores o si se quiere hacer un seguimiento más detallado de cada cliente.
 
 ## Archivos del Repositorio
-- `Dashboard de ventas.pbix`: Archivo de Power BI con el dashboard.
-- `README.md`: Documento con la explicación del dashboard y de los elementos que lo componen.
+- Dashboard de ventas.pbix: Archivo de Power BI con el dashboard.
+- README.md: Documento con la explicación del dashboard y de los elementos que lo componen.
 
 ## Objetivo
 La finalidad de este dashboard es ofrecer una herramienta fácil de usar que permita visualizar y entender los datos de ventas sin complicaciones, ayudando así a tomar mejores decisiones basadas en datos.
